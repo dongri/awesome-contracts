@@ -1,0 +1,14 @@
+{
+  "name": "moonbirds",
+  "version": "1.0.0",
+  "description": "https://etherscan.io/address/0x23581767a106ae21c074b2276d25e5c3e136a68b#code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@divergencetech/ethier": "^0.27.0"
+  }
+}
